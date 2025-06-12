@@ -65,7 +65,7 @@ This table stores information about stores.
 
 Usage
 - Use SQL to query data
-- Use INSERT, UPDATE, and DELETE statements to add, modify, and delete data
+- Use joins , group by , having and where to display database
 
 License
 - This project is licensed under the MIT License
