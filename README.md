@@ -63,6 +63,11 @@ This table stores information about stores.
 - store_id (int): Unique identifier for the store
 - store_name (varchar(255)): Name of the store
 
+Relationships
+The entity relationship diagram below describes the relationships between entities in my database.
+![image](https://github.com/user-attachments/assets/40511782-e916-42c9-aa7a-d67da80b6372)
+
+
 Usage
 - Use SQL to query data
 - Use joins , group by , having and where to display database
