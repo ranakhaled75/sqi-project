@@ -71,7 +71,7 @@ The entity relationship diagram below describes the relationships between entiti
 - One customer can place many orders.
 -	One staff member can handle many orders.
 -	One order contains many order items.
-- Products	N:1	Many order items can refer to the same product.
+- 	Many order items can refer to the same product.
 -	Many products belong to one category.
 -	Each product has stock info.
 -One store can have multiple stock entries.
