@@ -1,5 +1,6 @@
 # bikestore-project
- database for a learn production and sales for bike store
+## scope
+  designed to manage all aspects of a bike store's operations, featuring comprehensive tables for products, customers, sales, employees, and more
 ## entities
 Production.Brands
 This table stores information about brands.
