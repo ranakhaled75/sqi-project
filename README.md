@@ -78,7 +78,15 @@ The entity relationship diagram below describes the relationships between entiti
 
 Usage
 - Use SQL to query data
-- Use joins , group by , having and where to display database
+- You can use various SQL clauses to retrieve and manipulate data, including:
+    - SELECT
+    - JOIN
+    - WHERE
+    - GROUP BY
+    - HAVING
+    - ORDER BY
+    - TOP
+
 
 License
 - This project is licensed under the MIT License
