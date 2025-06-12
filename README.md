@@ -67,6 +67,14 @@ This table stores information about stores.
 The entity relationship diagram below describes the relationships between entities in my database.
 ![image](https://github.com/user-attachments/assets/40511782-e916-42c9-aa7a-d67da80b6372)
 
+### describe
+-One customer can place many orders.
+-	One staff member can handle many orders.
+-	One order contains many order items.
+- Products	N:1	Many order items can refer to the same product.
+-	Many products belong to one category.
+-	Each product has stock info; typically 1:1.
+-One store can have multiple stock entries.
 
 Usage
 - Use SQL to query data
