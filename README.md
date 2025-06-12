@@ -1,15 +1,15 @@
 # bikestore-project
 ## scope
  designed to manage all aspects of a bike store's operations, featuring comprehensive tables for products, customers, sales, employees, and more
-- Production.Brands:This table stores information about brands.
-- Production.Categories :This table stores information about product categories.
-- Production.Products: This table stores information about products.
-- Production.Stocks : This table stores information about product stock.
-- Sales.Customers : This table stores information about customers.
-- Sales.Orders : This table stores information about orders.
-- Sales.OrderItems : This table stores information about order items.
-- Sales.OrderItems : This table stores information about staff members.
-- Sales.Stores : This table stores information about stores.
+- Production.Brands: stores information about brands.
+- Production.Categories : stores information about product categories.
+- Production.Products:  stores information about products.
+- Production.Stocks :  stores information about product stock.
+- Sales.Customers :  stores information about customers.
+- Sales.Orders :  stores information about orders.
+- Sales.OrderItems : stores information about order items.
+- Sales.OrderItems :  stores information about staff members.
+- Sales.Stores : stores information about stores.
 
 
 ## entities
