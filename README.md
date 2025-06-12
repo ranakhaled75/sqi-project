@@ -1,1 +1,1 @@
-# sqi-project
+# bikestore-project
